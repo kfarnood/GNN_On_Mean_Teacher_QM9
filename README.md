@@ -15,7 +15,7 @@ pip install -r requirements.txt
 jupyter notebook GNN_On_Mean_Teacher.ipynb
 Key Features
 
-
+While fully supervised models achieve ~0.01 Debye MAE using 110k labels, models restricted to 10k labels typically achieve ~0.15-0.20 Debye. My Semi-Supervised Mean Teacher currently achieves 0.87 Debye, outperforming traditional ML baselines (Random Forest ~1.2 D) and establishing a working proof-of-concept for consistency regularization on quantum chemical graphs.
 
 Well as of this date (28 Nov) both Grok and DeepSeek insist that I have broke the world record . But this is something that I need to communicate with the university.
 
