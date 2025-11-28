@@ -15,10 +15,18 @@ pip install -r requirements.txt
 jupyter notebook GNN_On_Mean_Teacher.ipynb
 Key Features
 
+
+
+Well as of this date (28 Nov) both Grok and DeepSeek insist that I have broke the world record . But this is something that I need to communicate with the university.
+
+
+
 Mean Teacher consistency regularization
 Custom Angle-Aware GNN
 ArcSinh MSE loss
 200 epochs, first run, no tuning
+
+AI Help : Grok for analysing the output, Deepseek for debugging and analyzing the output. Chat gpt was useless (as expected ) . Gemini for logic check and debug
 
 License
 MIT
